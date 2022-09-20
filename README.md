@@ -4,11 +4,11 @@ I'm a student fullstack development. And I have knowledge about creating templat
 
 ## My education
 
-I have studied at Priazovskyi State Technical University*(2020 - 2022)*. 
-: Faculty: Computer Science
+I have studied at Priazovskyi State Technical University *(2020 - 2022)*. 
+: Faculty - Computer Science
 
-I study now at Integrify.io(2022.09 - 202x.xx).
-: Course: Fullstack Development
+I study now at Integrify.io *(2022.09 - 202x.xx)*.
+: Course - Fullstack Development
 
 ## My work experience
 
