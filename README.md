@@ -18,9 +18,11 @@ As a freelancer I made:
 * 4 multi-page templates
 
 ## My Github Stats
-| ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remonone&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remonone&layout=compact)] |
+| ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remonone&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remonone&layout=compact) |
+| ----------- | ----------- |
 
 ## My Best Repo
 
 | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/-L-Ladesign-studio) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/Design_Company) |
+| ----------- | ----------- |
 
