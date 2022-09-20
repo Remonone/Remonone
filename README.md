@@ -23,6 +23,7 @@ As a freelancer I made:
 
 ## My Best Repo
 
-| [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/-L-Ladesign-studio) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/Design_Company) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=-L-Ladesign-studio)](https://github.com/Remonone/-L-Ladesign-studio) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=Design_Company)](https://github.com/Remonone/Design_Company) |
 | ----------- | ----------- |
 
