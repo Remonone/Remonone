@@ -1,18 +1,26 @@
-### Hi there 👋
+# Hello! I'm Mykyta(Nikita)
 
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remonone&show_icons=true&theme=radical)
+I'm a student fullstack development. And I have knowledge about creating templates of websites.
 
-<!--
-**Remonone/Remonone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My education
 
-Here are some ideas to get you started:
+I have studied at Priazovskyi State Technical University*(2020 - 2022)*. 
+: Faculty: Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I study now at Integrify.io(2022.09 - 202x.xx).
+: Course: Fullstack Development
+
+## My work experience
+
+I had an experience as a freelancer for Frontend Development.
+As a freelancer I made:
+* 7 landing templates
+* 4 multi-page templates
+
+## My Github Stats
+| ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remonone&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remonone&layout=compact)] |
+
+## My Best Repo
+
+| [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/-L-Ladesign-studio) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Remonone)](https://github.com/Remonone/Design_Company) |
+
