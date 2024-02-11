@@ -12,11 +12,11 @@ Faculty - Computer Science
 Course - Fullstack Development
 
 ## My work experience
+| Position          | Description                                                        |
+| ----------------- | ------------------------------------------------------------------ |
+| Freelancer | I had an experience as a freelancer for Frontend Development.<br>As a freelancer I made:<br>* 7 landing templates<br>* 4 multi-page templates |
+| Junior Software Developer | |
 
-I had an experience as a freelancer for Frontend Development.
-As a freelancer I made:
-* 7 landing templates
-* 4 multi-page templates
 
 ## My Github Stats
 | ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remonone&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remonone&layout=compact) |
