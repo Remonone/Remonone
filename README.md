@@ -1,6 +1,6 @@
 # Hello! I'm Mykyta(Nikita)
 
-I'm a student fullstack development. And I have knowledge about creating templates of websites.
+I'm a fullstack developer. And I have huge interest in Game Development.
 
 ## My education
 
@@ -15,7 +15,7 @@ Course - Fullstack Development
 | Position          | Description                                                        |
 | ----------------- | ------------------------------------------------------------------ |
 | Freelancer | I had an experience as a freelancer for Frontend Development.<br>As a freelancer I made:<br>* 7 landing templates<br>* 4 multi-page templates |
-| Junior Software Developer | |
+| Junior Fullstack Developer | Developed new features, make testing for backend side |
 
 
 ## My Github Stats
