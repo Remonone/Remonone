@@ -24,6 +24,6 @@ Course - Fullstack Development
 
 ## My Best Repo
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=-L-Ladesign-studio)](https://github.com/Remonone/-L-Ladesign-studio) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=GumuPeachu)](https://github.com/Remonone/Design_Company) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=-L-Ladesign-studio)](https://github.com/Remonone/-L-Ladesign-studio) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Remonone&repo=GumuPeachu)](https://github.com/Remonone/GumuPeachu) |
 | ----------- | ----------- |
 
