@@ -15,7 +15,7 @@ Course - Fullstack Development
 | Position          | Description                                                        |
 | ----------------- | ------------------------------------------------------------------ |
 | Freelancer | I had an experience as a freelancer for Frontend Development.<br>As a freelancer I made:<br>* 7 landing templates<br>* 4 multi-page templates |
-| Junior Fullstack Developer | Developed new features, make testing for backend side |
+| Fullstack Developer | Developed new features, make testing for backend side. Refactor backend microservice |
 
 
 ## My Github Stats
